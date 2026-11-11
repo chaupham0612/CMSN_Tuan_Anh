@@ -1,0 +1,2 @@
+Giải nén toàn bộ thư mục, rồi mở index.html bằng Chrome, Edge, Safari hoặc Firefox.
+Bấm Bật nhạc để nghe nhạc sinh nhật. Font chữ tải từ Google Fonts khi có Internet; các hiệu ứng và tương tác hoạt động không cần mạng.
